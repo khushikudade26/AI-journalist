@@ -79,5 +79,12 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 - GitHub: [YourUsername](https://github.com/yourusername)
 - LinkedIn: [YourProfile](https://www.linkedin.com/in/yourprofile)
-![image](https://github.com/user-attachments/assets/4edfabe7-9f99-4524-a359-0aaf2bd4a16b)
+
+- ![image](https://github.com/user-attachments/assets/20c583da-8722-4b88-9b26-dd9bb2d16c34)
+-
+- ![image](https://github.com/user-attachments/assets/93d5dafb-889f-4f9a-a31f-375cf0687a62)
+- ![image](https://github.com/user-attachments/assets/f75a707b-59a9-44b7-bc7e-28a0afc3197b)
+
+
+
 
